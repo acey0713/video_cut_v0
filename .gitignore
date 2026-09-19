@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# PyInstaller 打包产物
+build/
+dist/
+release/
+*.spec
+
+# 导出的视频
+output/
+
+# 测试素材（可选保留，看你要不要）
+assets/test_*.mp4
+assets/test_*.mp3
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+Thumbs.db
+.DS_Store
